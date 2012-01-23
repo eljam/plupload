@@ -13,6 +13,8 @@ plupload.addI18n({
     'Drag files here.' : 'Déposer les fichiers ici.',
     'File extension error.': 'Erreur extension fichier',
     'File size error.': 'Erreur taille fichier.',
+    'Error: File too large: ': 'Erreur taille fichier: ',
+    'Error: Invalid file extension: ': 'Erreur extension fichier: ',    
     'Init error.': 'Erreur d\'initialisation.',
     'HTTP Error.': 'Erreur HTTP.',
     'Security error.': 'Erreur de sécurité.',
